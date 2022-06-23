@@ -57,9 +57,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Entire Microverse team.
+- My learning and coding partners.
 
 ## 📝 License
 
