@@ -416,12 +416,12 @@ li {
 
 .icons {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
 
-.icon-color {
+/* .icon-color {
   color: rgb(54, 53, 53);
-}
+} */
 
 .contact-form .end-line {
   margin-bottom: 20px;
