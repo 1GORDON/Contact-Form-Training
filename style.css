@@ -34,6 +34,7 @@ body {
   width: 375px;
   height: 779px;
   padding: 50px 24px;
+  margin-left: 20px;
   background-image: url(./images/contact-form-shapes-mobile.svg), url(./images/Contact-me.svg);
   background-position: right center;
   background-repeat: no-repeat;
@@ -136,36 +137,3 @@ body {
   border-radius: 8px;
 }
 
-@media only screen and (min-width: 992px) {
-  /* Desktop [992px -> 1220px] */
-  body {
-    background-image: url(./images/header-background-shape-desktop.svg);
-    background-repeat: no-repeat;
-    background-position: top left;
-  }
-
-  /* Desktop contact Section */
-  .contact-form {
-    width: 100%;
-    height: 846px;
-    background-image: url(./images/contact-form-background-shapes.svg), url(./images/contact-form-background-shape-desktop.svg);
-    background-position: center;
-  }
-
-  .form-description {
-    width: 801px;
-  }
-
-  .form-group-actions {
-    align-items: center;
-  }
-
-  .form-group-actions input {
-    width: 447px;
-    border-radius: 2px;
-  }
-
-  .textarea-container {
-    width: 447px;
-  }
-}
